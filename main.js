@@ -1,0 +1,1 @@
+https://teachablemachine.withgoogle.com/models/I61F1fSMD/
